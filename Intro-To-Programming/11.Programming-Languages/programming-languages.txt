@@ -1,0 +1,88 @@
+One of the most popular programming languages nowadays are:
+
+JAVA, C, Python, C++, JavaScript, C#.
+
+C# and JAVA
+
+ Some similarities:
+- both have system garbage collection.
+- both have strict compiler conditions which are checked such as array indexes, initialisation of variables before use etc.
+- both have large API's and documentation 
+- both can perform reflection.
+- both have excellent exception handling.
+
+Some differences:
+- C# (and C++ for that matter) allows operator overloading, Java does not.
+- Java has primitive types such as int, char, double etc. Although C# has a similar syntax, the "primitive types" are actually objects and behave in the same manner in terms of memory usage and referencing.
+- In Java, all method parameters are called by value, that is that the values of the parameter variables are copied into method local variables. C# allows call by value by default, but can also pass a parameter by reference, allowing the properties or values of parameters to be mutated. C# also allows an "out" variable, which is a means of returning more than one value from a method.
+
+C#, C++ and  C
+
+C# is directly related to C and C++. As you recall C is a root for C++ and C++ is a superset of C. C and C++ shares several syntax, library and functionality. In addition structures, unions, arrays, strings and pointers are most important and similar functionality for both languages. C# inherits most of its operators, keywords, and statements directly from C++. Enums are clearly a meaningful concept in C++.
+Creating and using a component (DLL) in C# is fairly easier than in C++. One more thing, Borland's C++ Builder was a pure C++ with simple RAD environment of Delphi and VB. C++ Builder was not a new language. This is one of the biggest differences between C++ Builder and C#. The CLR (Common Language Runtime) improves runtime interactivity between program development simplicity, security and portability. However CLR gives usability for cross-language integration. In addition to all those CLL has+ a perfect foundation for a rich set of class libraries.
+
+
+C# and Python
+
+Differences:
+
+C#
+
+- Quicker to add new features
+    
+- Windows only--Mono is cross platform but does not have the library support.
+    
+- Started very similar to Java but has many more language features now.
+    
+- Much better access to windows APIs
+    
+- Not sure about speed--I think it's similar to Java.
+    
+- Very good library support
+
+- Static language
+ 
+
+Python
+
+- Language is cross platform. Not sure about non-language platform access (such as drag-and-drop)--anyone know?
+    
+- Probably an easier language to learn
+    
+- The only one of the three that does not use c-like syntax
+    
+- Slower than C#, but still fast compared to other dynamic languages.
+
+- Dynamic language
+  
+
+
+Similarities:
+
+Require some form of runtime on your system (JVM/.net/Python runtime)
+
+All can probably be compiled to executables without the runtime (this is iffy and situational, none of them are designed to work this way)
+    
+
+JavaScript and C#
+
+Differences:
+
+- JavaScript is a dynamic language!
+    
+- Variables are not strongly-typed
+    
+- No native support for namespaces and classes (until ES6)
+    
+- Only 2 levels of variable scope (until ES6)
+    
+- Equality comparisons can be tricky
+    
+- Functions are objects by default
+
+
+Similarities
+
+JavaScript and C# do have do have similar syntax, however.
+                                            
+

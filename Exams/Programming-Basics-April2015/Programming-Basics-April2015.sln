@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Compound-Interest", "01.Compound-Interest\01.Compound-Interest.csproj", "{1A2F1BF1-3987-4924-BCA9-5ECFB57E6C16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Petar's-Game", "02.Petar's-Game\02.Petar's-Game.csproj", "{5B3D0BFE-CC2E-442D-9718-BFFF376B3CA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Sunlight", "03.Sunlight\03.Sunlight.csproj", "{6831B2D1-5977-4C2F-9BD6-2704579A473E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Encrypt-The-Message", "04.Encrypt-The-Message\04.Encrypt-The-Message.csproj", "{1E03968E-F001-4256-976B-51209F7E09EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A2F1BF1-3987-4924-BCA9-5ECFB57E6C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2F1BF1-3987-4924-BCA9-5ECFB57E6C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2F1BF1-3987-4924-BCA9-5ECFB57E6C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2F1BF1-3987-4924-BCA9-5ECFB57E6C16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B3D0BFE-CC2E-442D-9718-BFFF376B3CA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B3D0BFE-CC2E-442D-9718-BFFF376B3CA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B3D0BFE-CC2E-442D-9718-BFFF376B3CA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B3D0BFE-CC2E-442D-9718-BFFF376B3CA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6831B2D1-5977-4C2F-9BD6-2704579A473E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6831B2D1-5977-4C2F-9BD6-2704579A473E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6831B2D1-5977-4C2F-9BD6-2704579A473E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6831B2D1-5977-4C2F-9BD6-2704579A473E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E03968E-F001-4256-976B-51209F7E09EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E03968E-F001-4256-976B-51209F7E09EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E03968E-F001-4256-976B-51209F7E09EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E03968E-F001-4256-976B-51209F7E09EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

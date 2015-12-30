@@ -1,0 +1,12 @@
+Eclipse - contains a base workspace and an extensible plug-in system for customizing the environment. Eclipse is written mostly in Java and its primary use is for developing Java applications, but it may also be used to develop applications in other programming languages through the use of plugins, including: Ada, ABAP, C, C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Lua, Natural, Perl, PHP, Prolog, Python, R, Ruby (including Ruby on Rails framework), Scala, Clojure, Groovy, Scheme, and Erlang. It can also be used to develop packages for the software Mathematica. Development environments include the Eclipse Java development tools (JDT) for Java and Scala, Eclipse CDT for C/C++ and Eclipse PDT for PHP, among others.
+
+IDLE - integrated development environment for Python, which has been bundled with the default implementation of the language since 1.5.2b1.[1][2] It is packaged as an optional part of the Python packaging with many Linux distributions. It is completely written in Python and the Tkinter GUI toolkit (wrapper functions for Tcl/Tk).
+
+
+NetBeans - open-source integrated development environment. NetBeans IDE supports development of all Java application types (Java SE (including JavaFX), Java ME, web, EJB and mobile applications) out of the box. Among other features are an Ant-based project system, Maven support, refactorings, version control (supporting CVS, Subversion, Git, Mercurial and Clearcase).
+
+
+Komodo - supports all major programming languages, providing a single tool that meets your development needs across the spectrum. Whether you’re working with Python, PHP, Ruby, Perl, HTML, CSS or JavaScript, Komodo provides a clean, intuitive interface with advanced editing capabilities and integrated tools for the most functionality.  
+
+
+IntelliJ IDEA - Java integrated development environment (IDE) for developing computer software. It is developed by JetBrains (formerly known as IntelliJ), and is available as an Apache 2 Licensed community edition and in a proprietary commercial edition.

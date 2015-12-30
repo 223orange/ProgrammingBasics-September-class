@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.The-Better-Music-Producer", "01.The-Better-Music-Producer\01.The-Better-Music-Producer.csproj", "{E7FB268C-3C17-4729-A136-80830C721902}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Grand-Theft-Examo", "02.Grand-Theft-Examo\02.Grand-Theft-Examo.csproj", "{8B79DEBF-C486-406F-A660-D48F1308312A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Plaid-Towel", "03.Plaid-Towel\03.Plaid-Towel.csproj", "{8183ECE1-D2AF-42A3-9E01-E94AF603D47C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Bohemcho-The-Bad-Ghost", "05.Bohemcho-The-Bad-Ghost\05.Bohemcho-The-Bad-Ghost.csproj", "{9474DE12-44B1-44C8-9F70-B7C7288B4972}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Game-Of-Life", "05.Game-Of-Life\05.Game-Of-Life.csproj", "{F7A2CE12-3F8C-43B3-B5EB-59F3E6EC99EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackBulgaria", "ConsoleApplication1\HackBulgaria.csproj", "{990AD6BC-F278-4499-B948-EAAB7600B77C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7FB268C-3C17-4729-A136-80830C721902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7FB268C-3C17-4729-A136-80830C721902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7FB268C-3C17-4729-A136-80830C721902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7FB268C-3C17-4729-A136-80830C721902}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B79DEBF-C486-406F-A660-D48F1308312A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B79DEBF-C486-406F-A660-D48F1308312A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B79DEBF-C486-406F-A660-D48F1308312A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B79DEBF-C486-406F-A660-D48F1308312A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8183ECE1-D2AF-42A3-9E01-E94AF603D47C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8183ECE1-D2AF-42A3-9E01-E94AF603D47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8183ECE1-D2AF-42A3-9E01-E94AF603D47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8183ECE1-D2AF-42A3-9E01-E94AF603D47C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9474DE12-44B1-44C8-9F70-B7C7288B4972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9474DE12-44B1-44C8-9F70-B7C7288B4972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9474DE12-44B1-44C8-9F70-B7C7288B4972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9474DE12-44B1-44C8-9F70-B7C7288B4972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7A2CE12-3F8C-43B3-B5EB-59F3E6EC99EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A2CE12-3F8C-43B3-B5EB-59F3E6EC99EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A2CE12-3F8C-43B3-B5EB-59F3E6EC99EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A2CE12-3F8C-43B3-B5EB-59F3E6EC99EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{990AD6BC-F278-4499-B948-EAAB7600B77C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{990AD6BC-F278-4499-B948-EAAB7600B77C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{990AD6BC-F278-4499-B948-EAAB7600B77C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{990AD6BC-F278-4499-B948-EAAB7600B77C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
